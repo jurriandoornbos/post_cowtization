@@ -1,0 +1,28 @@
+{
+  "title":"cowtization",
+  "creator": "Jurrian Doornbos, Douwe Spaanderman",
+  "date": "2/4/2024",
+  "icon":"https://github.com/jurriandoornbos/post_cowtization/blob/main/imgs/cowtization.png?raw=true",
+  "icaerus_applications": ["livestock-monitoring"],
+  "uses_cases":[3],
+  "extra":{
+      "usage/description": "Code for ICAERUS blogpost on Deep Learning quantization using a trained cow detection model."
+  },
+  "filters":{
+    "content": [
+        "Deep learning",
+        "Computer vision",
+        "Detection",
+        "Livestock"
+    ],
+    "data-type": [
+        "RGB images"
+    ],
+    "subject": [
+        "Livestock"
+    ],
+    "location": [
+        "France"
+    ]
+        }
+}
